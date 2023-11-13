@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DemoDialogs</string>
+
+    <!-- in xml layouts -->
+    <string name="str_btn_toast">Toast!</string>
+    <string name="str_btn_dialog">Ga in dialoog</string>
+
+    <!-- in dialog fragment class-->
+    <string name="cake_base_title">Pick your base</string>
+
+    <string-array name="cake_base_list">
+        <item>Beef</item>
+        <item>Chocolate</item>
+        <item>Carrot</item>
+        <item>Apple</item>
+    </string-array>
+
+</resources>
